@@ -1,0 +1,16 @@
+{
+  "name": "3d-maze-engine",
+  "version": "1.0.0",
+  "description": "3d maze game pls play with me :>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarthak and satya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  }
+}
